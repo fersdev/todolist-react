@@ -12,10 +12,10 @@ ReactJS Typescript created with Vite, using functional components and Hooks to m
 Layout created from scratch with CSS modules, based on the figma project provided by Rocketseat for Ignite's ReactJS 2022 track challenge 01.
 (Desafio 01 ReactJS Ignite 2022)
 
-#### screenshot: Task list empty
+#### Task list empty (screenshot)
 <img src="https://user-images.githubusercontent.com/58957805/174866320-40b90e6e-5965-4ccf-bd1d-034a9285dae1.PNG" width="100%">
 
-#### screenshot: Task list
+#### Task list (screenshot)
 <img src="https://user-images.githubusercontent.com/58957805/174866317-24fcf5be-038b-468b-bb28-bd1c5f007ec5.PNG" width="100%">
           
 This app was built by [Fernando Silva](https://www.linkedin.com/in/fernandosilvadev/).
