@@ -18,6 +18,6 @@ Layout created from scratch with CSS modules, based on the figma project provide
 #### Task list (screenshot)
 <img src="https://user-images.githubusercontent.com/58957805/174866317-24fcf5be-038b-468b-bb28-bd1c5f007ec5.PNG" width="100%">
           
-This app was built by [Fernando Silva](https://www.linkedin.com/in/fernandosilvadev/).
+This app was built by [Fernando Silva](https://www.linkedin.com/in/fersdev/).
 Feel free to contact me!
 
